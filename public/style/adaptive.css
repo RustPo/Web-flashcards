@@ -1,0 +1,15 @@
+/* Планшетная версия */
+
+@media (min-width: 768px) and (max-width: 1400px) {
+    /* .header {
+        height: 70px;
+    } */
+}
+
+/* Мобильная версия */
+
+@media (max-width: 767px) {
+    /* .header {
+        height: 60px;
+    } */
+}
